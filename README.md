@@ -1,4 +1,8 @@
-## Hi there 👋
+## Greetings, friend! 👋
+
+This is my personal github. I use it for many purposes, like school, work, and personal projects
+
+Not much to see right now, but I'm sure I'll be able to fill this out in no time
 
 <!--
 **CrumchyBoi/CrumchyBoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
