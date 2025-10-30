@@ -6,8 +6,9 @@ Not much to see right now, but I'm sure I'll be able to fill this out in no time
 
 I'm able to code in these languages
 
-![<htmx>](https://img.shields.io/badge/htmx-#3366CC?style=for-the-badge&logo=htmx&logoColor=#ffffff)]
+![htmx](https://img.shields.io/badge/htmx-#3366CC?style=for-the-badge&logo=htmx&logoColor=#ffffff)]
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+
 
 
 
