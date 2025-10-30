@@ -4,14 +4,6 @@ This is my personal github. I use it for many purposes, like school, work, and p
 
 Not much to see right now, but I'm sure I'll be able to fill this out in no time
 
-I'm able to code in these languages
-
-![htmx](https://img.shields.io/badge/HTMX-#3366CC?style=for-the-badge&logo=Htmx&logoColor=#ffffff)
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
-
-
-
-
 <!--
 **CrumchyBoi/CrumchyBoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
