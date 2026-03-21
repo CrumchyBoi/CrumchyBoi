@@ -47,7 +47,7 @@ This is my most recent and proudest work. This is my capstone project I have mad
 ### Oklahoma-Style Chili
 ![Oklahoma-Style Chili](img/oklahoma-style-chili.png)
 
-While not the prettiest thing I've ever coding, design was not the purpose of this project. This project was intended to help familiarize myself with Search Engine Optimization (SEO) principles, maintaining beneficial links between other websites, and establishing my understanding of how the backend of every website should be established. I learned how to register a domain, getting my domain registered within google analytics, and making proper humans.txt, privacy.txt, robots.txt and sitemap files so the website can be deemed more trustworthy. With my efforts in SEo, I was able to get my website to the 4th result on google for "Alberta oklahoma style chili". As of now, he website is offline, as I have no further need to maintain it.
+While not the prettiest thing I've ever coding, design was not the purpose of this project. This project was intended to help familiarize myself with Search Engine Optimization (SEO) principles, maintaining beneficial links between other websites, and establishing my understanding of how the backend of every website should be established. I learned how to register a domain, getting my domain registered within google analytics, and making proper humans.txt, privacy.txt, robots.txt and sitemap files so the website can be deemed more trustworthy. With my efforts in SEo, I was able to get my website to the 4th result on google for "Alberta oklahoma style chili". As of now, the website is offline, as I have no further need to maintain it.
 
 ### Dr. Who Website
 ![Dr. Who Website](img/dr-who.png)
