@@ -47,12 +47,12 @@ This is my most recent and proudest work. This is my capstone project I have mad
 ### Oklahoma-Style Chili
 ![Oklahoma-Style Chili](img/oklahoma-style-chili.png)
 
-While not the prettiest thing I've ever coding, design was not the purpose of this project. This project was intended to help familiarize myself with Search Engine Optimization (SEO) principles, maintaining beneficial links between other websites, and establishing my understanding of how the backend of every website should be established. I learned how to register a domain, getting my domain registered within google analytics, and making proper humans.txt, privacy.txt, robots.txt and sitemap files so the website can be deemed more trustworthy. With my efforts in SEo, I was able to get my website to the 4th result on google for "Alberta oklahoma style chili". As of now, the website is offline, as I have no further need to maintain it.
+While not the prettiest thing I've ever coding, design was not the purpose of this project. This project was intended to help familiarize myself with Search Engine Optimization (SEO) principles, maintaining beneficial links between other websites, and establishing my understanding of how the backend of every website should be established. I learned how to register a domain, getting my domain registered within google analytics, and making proper humans.txt, privacy.txt, robots.txt and sitemap files so the website can be deemed more trustworthy. With my efforts in SEO, I was able to get my website to the 4th result on google for "Alberta oklahoma style chili". As of now, the website is offline, as I have no further need to maintain it.
 
 ### Dr. Who Website
 ![Dr. Who Website](img/dr-who.png)
 
-I was given content for a Dr. Who inspired fan website and was tasked with making a design for it. While I'm not always the most confident with my design skills, I was very pleased with how the website came to be. It was another hard coded HTML and CSS website, but the main purpose of this website was to flex my creative muscles and making a design that fit the source material. I showed this website to a friend of mine who is very familiar with Dr. Who, adn they said the design was very fitting for the show.
+I was given content for a Dr. Who inspired fan website and was tasked with making a design for it. While I'm not always the most confident with my design skills, I was very pleased with how the website came to be. It was another hard coded HTML and CSS website, but the main purpose of this website was to flex my creative muscles and making a design that fit the source material. I showed this website to a friend of mine who is very familiar with Dr. Who, and they said the design was very fitting for the show.
 
 ### Edmonton Communities Project
 ![Edmonton Communities](img/edmonton-communities.png)
