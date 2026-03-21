@@ -25,9 +25,14 @@ Anyways, enough of that boring philosophy crap. You came here to see a web desig
 
 ## My Contact Information
 
-Phone: +1 (780) - 691 - 1766
-Email: kevinmparadis@gmail.com
-Discord: Available upon request
+### Phone: 
++1 (780) - 691 - 1766
+
+### Email: 
+kevinmparadis@gmail.com
+
+### Discord: 
+Available upon request
 
 
 ## Projects I've Made ( My Portfolio )
