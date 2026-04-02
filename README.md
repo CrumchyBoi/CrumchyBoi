@@ -38,8 +38,7 @@ Available upon request
 ## Projects I've Made ( My Portfolio )
 
 ### Top Asian Massage & Foot Reflexology
-[Top Asian Massage & Foot Reflexology](https://topasianmassage.ca)
-(Link currently non-functional)
+[Top Asian Massage & Foot Reflexology](https://topasianmassage.com)
 ![Top Asian Massage](img/top-asian-massage.png)
 
 This is my most recent and proudest work. This is my capstone project I have made along side a fellow classmate. While my classmate was in charge of creating the design and layout of the website, I was the lead developer and content creator. My tasks were to establish the functionality of a wordpress website to which a design could be added onto later, researching and writing all necessary content for the website, primarily by researching the massage techniques offered by our client, and writing a biography about the client from information provided to me. I discovered during this project I have a passion for writing, and found it very satisfying to actually get the content I wrote onto the website after the design was finalized. This was my first experience working directly with a client, and the experiences I had making this website have become an integral part of my future career.
