@@ -4,7 +4,7 @@
 
 I’m Kevin, an aspiring web developer and designer working in their spare time.
 
-I enjoy playing video games with friends, going out for drinks, cracking jokes, and hoarding/collecting data for fun. I've always been fond of using computers, so I gravitated towards DMIT where I studied Web Design at the Northern Alberta Institute of Technology (NAIT) for 2 years, graduating in 2026, all the while working a part time job.
+I enjoy playing video games with friends, going out for drinks, cracking jokes, and hoarding/collecting data for fun. I've always been fond of using computers, so I gravitated towards a DMIT course at the Northern Alberta Institute of Technology (NAIT), where I decided to study Web Design for 2 years while simultaneously working a part time job, and finally graduating in April 2026.
 
 Having studied web design at NAIT for 2 years, I’ve learned a lot about how to code and design an appealing website. While I know graduating is just the start of my career, I intend to treat every website I make as a learning opportunity; a chance for me to learn new skills and hone my existing skills into a fine edge. Admittedly, I can’t say I’ve gotten here entirely on my own, as the bonds I formed with my classmates helped me learn not only more about coding and design, but about myself as a person and where I fit into this small slice of the wider world.
 
