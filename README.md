@@ -1,6 +1,12 @@
 # Hey ya! Thanks for stopping by!
 
-I’m Kevin, an aspiring web developer and designer working in their spare time. Having studied web design at NAIT for 2 years, I’ve learned a lot about how to code and design an appealing website. While I know school is just the start of my career, I intend to treat every website I make as a learning opportunity; a chance for me to learn new skills and hone my existing skills into a fine edge. Admittedly, I can’t say I’ve gotten here entirely on my own, as the bonds I formed with my classmates helped me learn not only more about coding and design, but about myself as a person and where I fit into this small slice of the wider world.
+## A Little Bit About Myself
+
+I’m Kevin, an aspiring web developer and designer working in their spare time.
+
+I enjoy playing video games with friends, going out for drinks, cracking jokes, and hoarding/collecting data for fun. I've always been fond of using computers, so I gravitated towards DMIT where I studied Web Design at the Northern Alberta Institute of Technology (NAIT) for 2 years, graduating in 2026, all the while working a part time job.
+
+Having studied web design at NAIT for 2 years, I’ve learned a lot about how to code and design an appealing website. While I know graduating is just the start of my career, I intend to treat every website I make as a learning opportunity; a chance for me to learn new skills and hone my existing skills into a fine edge. Admittedly, I can’t say I’ve gotten here entirely on my own, as the bonds I formed with my classmates helped me learn not only more about coding and design, but about myself as a person and where I fit into this small slice of the wider world.
 
 Anyways, enough of that boring philosophy crap. You came here to see a web designer, not a philosophy major. I know what you’re asking: “What kinds of skills do you have?” and “Why should I hire you over any other web developer?”. Well, I’m glad you asked. Here’s a short list of skills I’ve learned in my time as a developer.
 
@@ -37,8 +43,7 @@ Available upon request
 
 ## Projects I've Made ( My Portfolio )
 
-### Top Asian Massage & Foot Reflexology
-[Top Asian Massage & Foot Reflexology](https://topasianmassage.com)
+### [Top Asian Massage & Foot Reflexology](https://topasianmassage.com)
 ![Top Asian Massage Preview](img/top-asian-massage.png)
 
 This is my most recent and proudest work. This is my capstone project I have made along side a fellow classmate. While my classmate was in charge of creating the design and layout of the website, I was the lead developer and content creator. My tasks were to establish the functionality of a wordpress website to which a design could be added onto later, researching and writing all necessary content for the website, primarily by researching the massage techniques offered by our client, and writing a biography about the client from information provided to me. I discovered during this project I have a passion for writing, and found it very satisfying to actually get the content I wrote onto the website after the design was finalized. We were also tasked with making a fully functional booking service for our client, to which we implemented into the website. By the end of it, I learned how to squeeze as much styling out of WordPress as I could, using custom CSS to add styling I couldn't add with Full Site Editing alone. This was my first experience working directly with a client, and the experiences I had making this website have become an integral part of my future career.
